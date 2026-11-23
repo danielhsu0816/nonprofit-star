@@ -1,0 +1,47 @@
+{
+ "note": "City centers are approximate. ZIP entries reuse the coordinates of the listed site in that ZIP (good to about a mile).",
+ "cities": [
+  {
+   "name": "Phoenix",
+   "state": "AZ",
+   "lat": 33.448,
+   "lng": -112.074
+  },
+  {
+   "name": "Tempe",
+   "state": "AZ",
+   "lat": 33.425,
+   "lng": -111.94
+  },
+  {
+   "name": "Scottsdale",
+   "state": "AZ",
+   "lat": 33.494,
+   "lng": -111.926
+  },
+  {
+   "name": "Surprise",
+   "state": "AZ",
+   "lat": 33.63,
+   "lng": -112.368
+  },
+  {
+   "name": "Mesa",
+   "state": "AZ",
+   "lat": 33.415,
+   "lng": -111.831
+  },
+  {
+   "name": "Glendale",
+   "state": "AZ",
+   "lat": 33.539,
+   "lng": -112.186
+  },
+  {
+   "name": "Tucson",
+   "state": "AZ",
+   "lat": 32.222,
+   "lng": -110.975
+  }
+ ]
+}

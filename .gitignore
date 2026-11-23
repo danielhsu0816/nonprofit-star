@@ -1,0 +1,8 @@
+dist/
+*.sqlite
+*.sqlite-*
+.DS_Store
+.env
+logo/
+screenshot/
+.netlify/

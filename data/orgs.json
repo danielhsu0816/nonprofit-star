@@ -1,0 +1,490 @@
+[
+ {
+  "id": "826national",
+  "name": "826 National",
+  "tagline": "Youth writing centers",
+  "cause": "education",
+  "description": "Support youth writing and publishing through local writing centers.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://826national.org",
+  "donateUrl": "https://826national.org/join-the-movement/donate/"
+ },
+ {
+  "id": "alleycat",
+  "name": "Alley Cat Allies",
+  "tagline": "Community cat advocacy",
+  "cause": "animals",
+  "description": "Support community cat protection and humane local policies.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://alleycat.org",
+  "donateUrl": "https://www.alleycat.org/donate"
+ },
+ {
+  "id": "americanhumane",
+  "name": "American Humane Society",
+  "tagline": "Animal disaster relief",
+  "cause": "animals",
+  "description": "Support animal welfare and emergency rescue programs.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://americanhumane.org",
+  "donateUrl": "https://www.americanhumane.org/donate"
+ },
+ {
+  "id": "americanrivers",
+  "name": "American Rivers",
+  "tagline": "River restoration",
+  "cause": "environment",
+  "description": "Help restore rivers, protect clean water and reconnect floodplains.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://americanrivers.org"
+ },
+ {
+  "id": "arborday",
+  "name": "Arbor Day Foundation",
+  "tagline": "Tree planting",
+  "cause": "environment",
+  "description": "Fund tree planting and forest restoration projects.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://arborday.org",
+  "donateUrl": "https://www.arborday.org/donate"
+ },
+ {
+  "id": "azhumane",
+  "name": "Arizona Humane Society",
+  "tagline": "Arizona shelter care",
+  "cause": "animals",
+  "description": "Support shelter, veterinary care and adoption services for animals in Arizona.",
+  "reach": "Arizona",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://azhumane.org"
+ },
+ {
+  "id": "aspca",
+  "name": "ASPCA",
+  "tagline": "Animal cruelty response",
+  "cause": "animals",
+  "description": "Help protect animals from cruelty and support rescue and care.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://aspca.org",
+  "donateUrl": "https://www.aspca.org/ways-to-give"
+ },
+ {
+  "id": "bestfriends",
+  "name": "Best Friends Animal Society",
+  "tagline": "Adoption and fostering",
+  "cause": "animals",
+  "description": "Support animal shelters, foster networks and pet adoption.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://bestfriends.org",
+  "donateUrl": "https://bestfriends.org/donate"
+ },
+ {
+  "id": "bgca",
+  "name": "Boys & Girls Clubs of America",
+  "tagline": "After-school clubs",
+  "cause": "children",
+  "description": "Support local clubs offering young people after-school programs and mentors.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://bgca.org",
+  "donateUrl": "https://www.bgca.org/ways-to-give/"
+ },
+ {
+  "id": "cityharvest",
+  "name": "City Harvest",
+  "tagline": "Food rescue",
+  "cause": "food",
+  "description": "Help rescue surplus food and deliver it to community food programs across New York City.",
+  "reach": "New York City",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://cityharvest.org",
+  "donateUrl": "https://www.cityharvest.org/donate"
+ },
+ {
+  "id": "codeorg",
+  "name": "Code.org",
+  "tagline": "Computer science education",
+  "cause": "education",
+  "description": "Help more students access computer science education and classroom learning tools.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://code.org",
+  "donateUrl": "https://code.org/donate"
+ },
+ {
+  "id": "donorschoose",
+  "name": "DonorsChoose",
+  "tagline": "Teacher-led projects",
+  "cause": "education",
+  "description": "Fund supplies requested by public school teachers for specific classroom projects.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://donorschoose.org"
+ },
+ {
+  "id": "fmsc",
+  "name": "Feed My Starving Children",
+  "tagline": "Volunteer meal packing",
+  "cause": "food",
+  "description": "Pack meals with other volunteers at a U.S. packing site to support children around the world.",
+  "reach": "International",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://fmsc.org",
+  "donateUrl": "https://www.fmsc.org/donate"
+ },
+ {
+  "id": "feedingamerica",
+  "name": "Feeding America",
+  "tagline": "Food bank network",
+  "cause": "food",
+  "description": "Connect households facing hunger with a nationwide network of food banks.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://feedingamerica.org",
+  "donateUrl": "https://give.feedingamerica.org/a/donate"
+ },
+ {
+  "id": "firstbook",
+  "name": "First Book",
+  "tagline": "Book access",
+  "cause": "education",
+  "description": "Help children in underserved communities access books and learning resources.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://firstbook.org",
+  "donateUrl": "https://firstbook.org/donate"
+ },
+ {
+  "id": "foodforthepoor",
+  "name": "Food For The Poor",
+  "tagline": "Community food assistance",
+  "cause": "food",
+  "description": "Support food assistance and community development in Latin America and the Caribbean.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://foodforthepoor.org",
+  "donateUrl": "https://foodforthepoor.org/donate"
+ },
+ {
+  "id": "guidedogs",
+  "name": "Guide Dogs for the Blind",
+  "tagline": "Guide dog partnerships",
+  "cause": "animals",
+  "description": "Support guide dog partnerships and volunteer programs for people who are blind or visually impaired.",
+  "reach": "US and Canada",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://guidedogs.com"
+ },
+ {
+  "id": "keeptempebeautiful",
+  "name": "Keep Tempe Beautiful",
+  "tagline": "Neighborhood park cleanups",
+  "cause": "environment",
+  "description": "Join neighborhood park cleanups or support community environmental education in Tempe.",
+  "reach": "Arizona",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://keeptempebeautiful.org",
+  "siteNote": "Cleanups move between Tempe parks. Check the organization's event page for the current location.",
+  "donateUrl": "https://keeptempebeautiful.org/donate/"
+ },
+ {
+  "id": "khanacademy",
+  "name": "Khan Academy",
+  "tagline": "Free online learning",
+  "cause": "education",
+  "description": "Help learners access free lessons and practice materials online.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://khanacademy.org",
+  "donateUrl": "https://www.khanacademy.org/donate"
+ },
+ {
+  "id": "wish",
+  "name": "Make-A-Wish America",
+  "tagline": "Wishes for children",
+  "cause": "children",
+  "description": "Help grant wishes for children living with critical illnesses.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://wish.org",
+  "chapter": "Make-A-Wish Arizona",
+  "localWebsite": "https://wish.org/arizona",
+  "donateUrl": "https://wish.org/arizona/donate"
+ },
+ {
+  "id": "mealsonwheels",
+  "name": "Meals on Wheels America",
+  "tagline": "Meals and companionship",
+  "cause": "food",
+  "description": "Help local programs deliver meals and companionship to older adults.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://mealsonwheelsamerica.org",
+  "donateUrl": "https://www.mealsonwheelsamerica.org/donate/"
+ },
+ {
+  "id": "nokidhungry",
+  "name": "No Kid Hungry",
+  "tagline": "School and summer meals",
+  "cause": "food",
+  "description": "Help children access school breakfasts and meals during school breaks.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://nokidhungry.org",
+  "donateUrl": "https://www.nokidhungry.org/donate/"
+ },
+ {
+  "id": "oceanconservancy",
+  "name": "Ocean Conservancy",
+  "tagline": "Coastal cleanups",
+  "cause": "environment",
+  "description": "Support ocean conservation and take part in coastal cleanups.",
+  "reach": "International",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://oceanconservancy.org"
+ },
+ {
+  "id": "projectlinus",
+  "name": "Project Linus",
+  "tagline": "Handmade comfort blankets",
+  "cause": "children",
+  "description": "Make handmade blankets for children facing illness, trauma or other difficult circumstances.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money",
+   "Time",
+   "Blankets"
+  ],
+  "website": "https://projectlinus.org",
+  "donateUrl": "https://www.projectlinus.org/donate.php"
+ },
+ {
+  "id": "rainforesttrust",
+  "name": "Rainforest Trust",
+  "tagline": "Rainforest protection",
+  "cause": "environment",
+  "description": "Help local partners establish protected areas for threatened species.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://rainforesttrust.org",
+  "donateUrl": "https://rainforesttrust.org/donate"
+ },
+ {
+  "id": "rif",
+  "name": "Reading Is Fundamental",
+  "tagline": "Childhood literacy",
+  "cause": "children",
+  "description": "Help children build reading skills through books, literacy programs and family resources.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://rif.org"
+ },
+ {
+  "id": "ronaldmcdonaldhouse",
+  "name": "Ronald McDonald House",
+  "tagline": "Family lodging",
+  "cause": "children",
+  "description": "Help families stay close to children receiving medical care.",
+  "reach": "International",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://ronaldmcdonaldhouse.org",
+  "chapter": "Ronald McDonald House Charities of Central and Northern Arizona",
+  "localWebsite": "https://www.rmhccnaz.org"
+ },
+ {
+  "id": "roomtoread",
+  "name": "Room to Read",
+  "tagline": "Literacy and girls' education",
+  "cause": "education",
+  "description": "Support early literacy and girls' education in communities around the world.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://roomtoread.org",
+  "donateUrl": "https://www.roomtoread.org/donate"
+ },
+ {
+  "id": "savethechildren",
+  "name": "Save the Children",
+  "tagline": "Emergency support for children",
+  "cause": "children",
+  "description": "Support children's health, education and emergency response programs.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://savethechildren.org"
+ },
+ {
+  "id": "sierraclubfoundation",
+  "name": "Sierra Club Foundation",
+  "tagline": "Climate and conservation",
+  "cause": "environment",
+  "description": "Support charitable programs advancing conservation and climate action.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://sierraclubfoundation.org"
+ },
+ {
+  "id": "stmarysfoodbank",
+  "name": "St. Mary's Food Bank",
+  "tagline": "Emergency food boxes",
+  "cause": "food",
+  "description": "Distribute food to Arizona families and pack emergency food boxes.",
+  "reach": "Arizona",
+  "ways": [
+   "Money",
+   "Food",
+   "Time"
+  ],
+  "website": "https://stmarysfoodbank.org",
+  "donateUrl": "https://www.stmarysfoodbank.org/donate"
+ },
+ {
+  "id": "teachforamerica",
+  "name": "Teach For America",
+  "tagline": "Teaching opportunities",
+  "cause": "education",
+  "description": "Support educators working to expand opportunity in U.S. schools.",
+  "reach": "Nationwide",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://teachforamerica.org",
+  "donateUrl": "https://www.teachforamerica.org/donate"
+ },
+ {
+  "id": "marinemammalcenter",
+  "name": "The Marine Mammal Center",
+  "tagline": "Marine mammal rehabilitation",
+  "cause": "animals",
+  "description": "Support rescue and rehabilitation for sick and injured marine mammals.",
+  "reach": "US regional",
+  "ways": [
+   "Money",
+   "Time"
+  ],
+  "website": "https://marinemammalcenter.org",
+  "donateUrl": "https://www.marinemammalcenter.org/donate"
+ },
+ {
+  "id": "nature",
+  "name": "The Nature Conservancy",
+  "tagline": "Land and water conservation",
+  "cause": "environment",
+  "description": "Help protect landscapes, freshwater and ocean habitats.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://nature.org"
+ },
+ {
+  "id": "unicefusa",
+  "name": "UNICEF USA",
+  "tagline": "Children's humanitarian aid",
+  "cause": "children",
+  "description": "Support humanitarian aid and essential services for children around the world.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://unicefusa.org"
+ },
+ {
+  "id": "wck",
+  "name": "World Central Kitchen",
+  "tagline": "Disaster kitchens",
+  "cause": "food",
+  "description": "Provide freshly prepared meals to communities responding to disasters.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://wck.org",
+  "donateUrl": "https://wck.org/donate/"
+ },
+ {
+  "id": "worldwildlife",
+  "name": "World Wildlife Fund",
+  "tagline": "Wildlife habitats",
+  "cause": "environment",
+  "description": "Support wildlife conservation and the protection of habitats.",
+  "reach": "International",
+  "ways": [
+   "Money"
+  ],
+  "website": "https://worldwildlife.org"
+ }
+]

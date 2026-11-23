@@ -1,0 +1,170 @@
+[
+ {
+  "org": "stmarysfoodbank",
+  "name": "Volunteer Center",
+  "street": "2804 N 29th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.479,
+  "lng": -112.12,
+  "volunteer": true
+ },
+ {
+  "org": "stmarysfoodbank",
+  "name": "Surprise Neighborhood Food Center",
+  "street": "13050 W Elm St",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85378",
+  "lat": 33.628,
+  "lng": -112.34,
+  "volunteer": true
+ },
+ {
+  "org": "azhumane",
+  "name": "Papago Park Campus",
+  "street": "5501 E Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.451,
+  "lng": -111.963,
+  "volunteer": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Tempe packing site",
+  "street": "1100 W Grove Pkwy, Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.349,
+  "lng": -111.955,
+  "volunteer": true
+ },
+ {
+  "org": "keeptempebeautiful",
+  "name": "Meeting point for Hayden Butte cleanups",
+  "street": "281 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.428,
+  "lng": -111.94,
+  "volunteer": true
+ },
+ {
+  "org": "ronaldmcdonaldhouse",
+  "name": "Roanoke House (Central and Northern Arizona chapter)",
+  "street": "501 E Roanoke Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.467,
+  "lng": -112.066,
+  "volunteer": true
+ },
+ {
+  "org": "ronaldmcdonaldhouse",
+  "name": "Cambridge House (Central and Northern Arizona chapter)",
+  "street": "1980 E Cambridge Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.479,
+  "lng": -112.041,
+  "volunteer": true
+ },
+ {
+  "org": "wish",
+  "name": "Make-A-Wish Arizona, Parsons Wish House",
+  "street": "2901 N 78th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.48,
+  "lng": -111.914,
+  "volunteer": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Aurora, IL",
+  "city": "Aurora",
+  "state": "IL",
+  "lat": 41.761,
+  "lng": -88.32,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Libertyville, IL",
+  "city": "Libertyville",
+  "state": "IL",
+  "lat": 42.283,
+  "lng": -87.953,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Schaumburg, IL",
+  "city": "Schaumburg",
+  "state": "IL",
+  "lat": 42.033,
+  "lng": -88.083,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Chanhassen, MN",
+  "city": "Chanhassen",
+  "state": "MN",
+  "lat": 44.862,
+  "lng": -93.531,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Coon Rapids, MN",
+  "city": "Coon Rapids",
+  "state": "MN",
+  "lat": 45.12,
+  "lng": -93.288,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Eagan, MN",
+  "city": "Eagan",
+  "state": "MN",
+  "lat": 44.804,
+  "lng": -93.167,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "fmsc",
+  "name": "Richardson, TX",
+  "city": "Richardson",
+  "state": "TX",
+  "lat": 32.948,
+  "lng": -96.73,
+  "volunteer": true,
+  "cityOnly": true
+ },
+ {
+  "org": "cityharvest",
+  "name": "Brooklyn, NY",
+  "city": "Brooklyn",
+  "state": "NY",
+  "lat": 40.678,
+  "lng": -73.944,
+  "volunteer": true,
+  "cityOnly": true
+ }
+]
